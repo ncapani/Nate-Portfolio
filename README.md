@@ -26,10 +26,7 @@ To optimize new images:
 1. Run `./optimize-images.sh` (requires ImageMagick)
 2. Use `<picture>` element with WebP and fallback in HTML
 
-## License 📄
-
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
 ## Contact 📧
 
-Created by [Steph Ran](https://stephanieran.github.io/personal-portfolio/) - feel free to reach out!!
+The code from the portfolio was taken from [Steph Ran](https://stephanieran.github.io/personal-portfolio/) - feel free to check her out!
